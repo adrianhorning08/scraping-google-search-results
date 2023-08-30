@@ -1,0 +1,23 @@
+{
+  "name": "scraping-google-search-results",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sparticuz/chromium": "^116.0.0",
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "graceful-fs": "^4.2.11",
+    "node-fetch": "^3.3.2",
+    "puppeteer-core": "^21.1.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
