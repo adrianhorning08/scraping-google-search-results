@@ -1,3 +1,5 @@
+This repo will scrape the search results from Google! Have fun 🤘
+
 How to run
 
 ```
